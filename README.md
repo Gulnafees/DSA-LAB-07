@@ -1,6 +1,6 @@
-# DSA-LAB-08
+# DSA-LAB-07
 
-CS-250 Data Structures and Algorithms - Lab 8 (Binary Trees), written in C++.
+CS-250 Data Structures and Algorithms - Lab 7 (Binary Trees), written in C++.
 
 `Task1.cpp` covers the lab tasks in one program:
 
